@@ -1,0 +1,92 @@
+[
+  {
+    "key": "01d",
+    "descriptionEn": "Clear sky day",
+    "descriptionRU": "Чистое небо ден"
+  },
+  {
+    "key": "01n",
+    "descriptionEn": "Clear sky night",
+    "descriptionRU": "Чистое небо ночь"
+  },
+  {
+    "key": "02d",
+    "descriptionEn": "Few clouds day",
+    "descriptionRU": "Несколько облаков ден"
+  },
+  {
+    "key": "02n",
+    "descriptionEn": "Few clouds night",
+    "descriptionRU": "Несколько облаков ночь"
+  },
+  {
+    "key": "03d",
+    "descriptionEn": "Scattered clouds day",
+    "descriptionRU": "Рассеянные облака ден"
+  },
+  {
+    "key": "03n",
+    "descriptionEn": "Scattered clouds night",
+    "descriptionRU": "Рассеянные облака ночь"
+  },
+  {
+    "key": "04d",
+    "descriptionEn": "Broken clouds day",
+    "descriptionRU": "Разбитые облака ден"
+  },
+  {
+    "key": "04n",
+    "descriptionEn": "Broken clouds night",
+    "descriptionRU": "Разбитые облака ночь"
+  },
+  {
+    "key": "09d",
+    "descriptionEn": "Shower rain day",
+    "descriptionRU": "Shower Дождь ден"
+  },
+  {
+    "key": "09n",
+    "descriptionEn": "Shower rain night",
+    "descriptionRU": "Shower Дождь ночь"
+  },
+  {
+    "key": "10d",
+    "descriptionEn": "Rain day",
+    "descriptionRU": "Дождь ден"
+  },
+  {
+    "key": "10n",
+    "descriptionEn": "Rain night",
+    "descriptionRU": "Дождь ночь"
+  },
+  {
+    "key": "11d",
+    "descriptionEn": "Thunderstorm day",
+    "descriptionRU": "Гроза ден"
+  },
+  {
+    "key": "11n",
+    "descriptionEn": "Thunderstorm night",
+    "descriptionRU": "Гроза ночь"
+  },
+  {
+    "key": "13d",
+    "descriptionEn": "Snow day",
+    "descriptionRU": "Снег ден"
+  },
+  {
+    "key": "13n",
+    "descriptionEn": "Snow night",
+    "descriptionRU": "Снег ночь"
+  },
+  {
+    "key": "50d",
+    "descriptionEn": "Mist day",
+    "descriptionRU": "Туман ден"
+  },
+  {
+    "key": "50n",
+    "descriptionEn": "Mist night",
+    "descriptionRU": "Туман ночь"
+  }
+]

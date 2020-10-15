@@ -1,0 +1,85 @@
+/* html {
+  overflow: hidden;
+} */
+
+*::-webkit-scrollbar {
+  width: 4px;
+}
+
+*::-webkit-scrollbar-track {
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+}
+
+*::-webkit-scrollbar-thumb {
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  background: #00000030;
+}
+
+.ss-content {
+  padding: 0 !important;
+}
+
+.text-transform-none {
+  text-transform: none !important;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.pt-85px {
+  padding-top: 85px;
+}
+
+.pt-64px {
+  padding-top: 64px;
+}
+
+.position-relative {
+  position: relative;
+}
+
+.view-actions {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+
+.v-badge__badge {
+  bottom: calc(100% - 15px) !important;
+  left: calc(100% - 27px) !important;
+}
+
+.fs-11 {
+  font-size: 11px;
+}
+
+.owerflow-wrap {
+  overflow-wrap: break-word;
+}
+
+.h-100 {
+  height: 100%;
+}
+
+.tb-active {
+  background-color: #119a9426 !important;
+}
+
+.fs-18 {
+  font-size: 18px;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.vm--container {
+  z-index: 9999;
+}
+
+.text-nowrap {
+  white-space: nowrap;
+}
