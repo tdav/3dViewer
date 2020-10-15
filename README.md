@@ -1,4 +1,4 @@
-# viralax.frontend
+# 3dviewer
 
 ## Project setup
 
